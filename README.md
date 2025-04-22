@@ -2,3 +2,9 @@
 
 This repository contains code for the paper "FACE: Faithful Automatic Concept Extraction" submitted to the The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025).
 
+## Introduction 
+ Existing automatic concept discovery methods naively rely on clustering or factorization of activation vectors, raising concerns about the faithfulness of extracted concepts to the model's true decision-making process. To address this, we propose FACE, Faithful Automatic Concept Extraction (FACE), a principled approach combining non-negative matrix factorization (NMF) with a Kullback-Leibler (KL) divergence constraint to align concept-based reconstructions with model predictions, ensuring faithful explanations.
+
+## Demo
+We have provided a jupyter notebook demonstrating FACE implementation on an imagenet class 'Church'. You will need to prepare correctly classified images as .npz file to execute the notebook. 
+

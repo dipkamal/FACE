@@ -1,9 +1,8 @@
 '''
-@Author: Zhang Ruihan
-@Date: 2019-10-28 01:01:52
-@LastEditors  : Zhang Ruihan
-@LastEditTime : 2020-01-07 01:33:49
-@Description: file content
+
+Authors: Zhang Ruihan
+Github: https://github.com/zhangrh93/InvertibleCE?tab=readme-ov-file
+
 '''
 
 import numpy as np

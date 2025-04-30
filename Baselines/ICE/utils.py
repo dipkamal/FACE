@@ -1,10 +1,10 @@
 '''
-@Author: Zhang Ruihan
-@Date: 2019-10-28 01:01:52
-@LastEditors  : Zhang Ruihan
-@LastEditTime : 2020-01-15 05:50:01
-@Description: file content
+
+Authors: Zhang Ruihan
+Github: https://github.com/zhangrh93/InvertibleCE?tab=readme-ov-file
+
 '''
+
 from PIL import Image
 import numpy as np
 import matplotlib.pyplot as plt

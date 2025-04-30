@@ -6,7 +6,6 @@ Paper: CRAFT: Concept Recursive Activation FacTorization for Explainability
 """
 
 from abc import ABC, abstractmethod
-
 import numpy as np
 
 

@@ -8,9 +8,7 @@ This repository contains code for the paper "FACE: Faithful Automatic Concept Ex
 
 ## Requirements
 The current implementation is on PyTorch and requires some existing libraries that you can install using the following file:
-```
-pip install -r requirements.txt
-
+```pip install -r requirements.txt
 ```
 
 ## Demo

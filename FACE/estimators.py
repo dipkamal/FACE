@@ -1,5 +1,8 @@
 """
 Sobol' total order estimators module
+
+Authors: Thomas Fel, Agustin Picard, Louis Bethune, Thibaut Boissin, David Vigouroux, Julien Colin, Rémi Cadène, Thomas Serre
+Paper: CRAFT: Concept Recursive Activation FacTorization for Explainability
 """
 
 from abc import ABC, abstractmethod

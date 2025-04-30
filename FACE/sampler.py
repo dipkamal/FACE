@@ -1,7 +1,12 @@
-from abc import ABC, abstractmethod
+'''
+Authors: Thomas Fel, Agustin Picard, Louis Bethune, Thibaut Boissin, David Vigouroux, Julien Colin, Rémi Cadène, Thomas Serre
+Paper: CRAFT: Concept Recursive Activation FacTorization for Explainability
 
+'''
+
+
+from abc import ABC, abstractmethod
 import numpy as np
-#import tensorflow as tf
 import scipy
 
 

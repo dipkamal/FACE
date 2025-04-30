@@ -5,5 +5,4 @@ This directory contains our implementation of FACE with following files:
 - metrics.py consists of evaluation metrics for reconstruction quality and faithfulness-complexity of explanations.
 
 
-To execute the notebook, please prepare a .npz file of correctly classified images of class 'Church' from imagenet. You can download the church-dataset here https://www.dropbox.com/scl/fi/xtp2fz5jky9fwlkgfqad6/final_filtered_church_images.npz?rlkey=qxsdzt55kgv9qixgxm9ec6c97&st=gdwxwbcs&dl=0. 
-
+To execute the notebook, please prepare a .npz file of correctly classified images of class 'Church' from imagenet. You can download the church-dataset here https://drive.google.com/file/d/1OvASMUfeHbQTdx2DGx1FhiOBdbEXIkF1/view?usp=drive_link

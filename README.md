@@ -11,6 +11,9 @@ The current implementation is on PyTorch and requires some existing libraries th
 ```
 pip install -r requirements.txt
 ```
+## Models under evaluation 
+
+We pretrained ResNet34 and MobileNetV2 for ImageNet and COCO. For CelebA dataset, we train ResNet and MobileNet models on an exclusive set of four facial attributes. See CelebA folder for details on model training. 
 
 ## Demo
 We have provided a jupyter notebook demonstrating FACE implementation on an imagenet class 'Church'. You will need to prepare correctly classified images as .npz file to execute the notebook. 

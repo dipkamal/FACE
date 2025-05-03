@@ -1,3 +1,9 @@
+'''
+Code for FACE: NMF optimization with KL-regularization
+Author: Dipkamal Bhusal
+
+'''
+
 from utility import *
 import torch.optim as optim
 import torch.nn.functional as F

@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import numpy as np
 import cv2
 import torch
@@ -15,10 +9,6 @@ def torch_to_numpy(tensor):
         return tensor.detach().cpu().numpy()
     except:
         return np.array(tensor)
-
-
-# In[ ]:
-
 
 
 

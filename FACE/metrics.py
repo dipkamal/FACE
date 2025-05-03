@@ -1,3 +1,10 @@
+'''
+Code for different evaluation metrics of NMF-based explanations
+Author: Dipkamal Bhusal
+
+'''
+
+
 from utility import *
 import torch.optim as optim
 import torch.nn.functional as F

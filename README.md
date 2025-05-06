@@ -13,7 +13,7 @@ In this work, we propose FACE: Faithful Automatic Concept Extraction, a novel fr
 Here, $h(\cdot)$ denotes the classifier head that maps activations to logits, and $\lambda > 0$ controls the trade-off between reconstruction fidelity and predictive faithfulness.
 
 ## Requirements
-The current implementation is on PyTorch and requires some existing libraries that you can install using the following file:
+The current implementation is on Python3 and PyTorch. In addition to numpy, it requires some existing libraries that you can install using the following file:
 ```
 pip install -r requirements.txt
 ```

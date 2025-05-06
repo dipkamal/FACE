@@ -22,4 +22,4 @@ pip install -r requirements.txt
 We use pretrained ResNet34 and MobileNetV2 for ImageNet and COCO. For CelebA dataset, we train ResNet and MobileNet models on an exclusive set of four facial attributes. See CelebA folder for details on celebA models training.
 
 ## Demo of FACE
-We have provided a jupyter notebook demonstrating FACE implementation on an imagenet class 'Church'. You will need to prepare correctly classified images as .npz file to execute the notebook. You can download the sample here https://drive.google.com/file/d/1OvASMUfeHbQTdx2DGx1FhiOBdbEXIkF1/view?usp=drive_link
+We have provided a jupyter notebook demonstrating FACE implementation on an imagenet class 'Church'. You will need to prepare correctly classified images as .npz file to execute the notebook. You can download the sample [here](https://drive.google.com/file/d/1OvASMUfeHbQTdx2DGx1FhiOBdbEXIkF1/view?usp=sharing) 

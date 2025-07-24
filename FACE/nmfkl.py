@@ -1,6 +1,5 @@
 '''
 Code for FACE: NMF optimization with KL-regularization
-Author: Dipkamal Bhusal
 
 '''
 

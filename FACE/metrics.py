@@ -1,6 +1,5 @@
 '''
 Code for different evaluation metrics of NMF-based explanations
-Author: Dipkamal Bhusal
 
 '''
 

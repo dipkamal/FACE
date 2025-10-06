@@ -16,3 +16,6 @@ We use pretrained ResNet34 and MobileNetV2 for ImageNet and COCO. For CelebA dat
 
 ## Demo of FACE
 We have provided a jupyter notebook demonstrating FACE implementation on an imagenet class 'Church'. You will need to prepare correctly classified images as .npz file to execute the notebook. You can download the sample [here](https://drive.google.com/file/d/1OvASMUfeHbQTdx2DGx1FhiOBdbEXIkF1/view?usp=sharing) 
+
+## Acknowledgement: 
+This work builds on the prior work on automatic concept explanations, especially, "CRAFT: Concept Recursive Activation FacTorization for Explainability (CVPR 2023)". We want to thank the authors for making the code public.
